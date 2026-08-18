@@ -1,2 +1,5 @@
-# High-Quantum-Orbital-Visualizer
-I can see it!
+网盘获取方法：
+通过网盘分享的文件：可视化软件.zip
+链接: https://pan.baidu.com/s/1pEgi5mgMg7rG53M0uKcUqA?pwd=ICS1 提取码: ICS1 
+Github获取链接：
+https://github.com/MaYiming2024/High-Quantum-Orbital-Visualizer/releases/tag/v1.0B
